@@ -1,0 +1,37 @@
+div{
+    border:2px solid brown;
+    margin:auto;
+    width: 200px;
+    padding:25px;
+    margin-top:250px;
+    color: peachpuff;
+  /*  background:linear-gradient(hotpink,rgb(176, 35, 35));*/
+    background:linear-gradient(grey,rgb(35, 201, 185))
+    
+
+}
+body{
+   /* background:linear-gradient(lightgray,pink,pink)*/
+   background:url("pinkbg.webp")
+}
+
+h1{
+    color:yellow;
+    text-align:center;
+    background:palevioletred
+}
+p{
+    color:gold;
+}
+button
+{
+    margin: 2px;
+    margin-left:60px;
+    font-size:17px;
+    padding:5px 10px;
+    background:plum;
+}
+
+a{
+    color:red;
+}
